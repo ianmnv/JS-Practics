@@ -1,5 +1,3 @@
-# Learning
+# Learning in progress
 
-Here's where I did understood all the fundamentals of JavaScript.
-
-From what is a variable to understood how to use For loop
+Some of the most important fundamentals of JavaScript that I have learned in two months
